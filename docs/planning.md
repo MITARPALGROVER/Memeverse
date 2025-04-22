@@ -37,15 +37,15 @@ Memeverse is an AI-powered meme generator that allows users to create, share, an
 
 ## User Roles
 
-1. **Madhusudhan** - Coding and testing
+1. **Madhusudhan** - Main page and overall javascript
 
-2. **Mitarpal Grover** - Designing and coding
+2. **Mitarpal Grover** - Figma design and about page
 
-3. **Nidhi** - Coding
+3. **Nidhi** - Contact page and overall css
 
-4. **Mohit Sharma** - Coding
+4. **Mohit Sharma** - Signup page
 
-5. **Mayank Bishnoi** - Coding
+5. **Mayank Bishnoi** - Signin page
 
 
 ## Future Enhancements
