@@ -6,7 +6,7 @@ Memeverse is an AI-powered meme generator that allows users to create, share, an
 Madhusudhan - 2410991391<br>
 Mayank Bishnoi - 2410991415<br>
 Mitarpal Grover - 2410991424<br>
-Mohit Sharma - 2410991425 <\br>
+Mohit Sharma - 2410991425 <br>
 Nidhi - 2410991447
 ## Project Structure
 The project is organized into the following directories and files:
