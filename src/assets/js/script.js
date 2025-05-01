@@ -59,7 +59,7 @@ const apiSources = [
             const response = await fetch(`https://www.reddit.com/r/${randomSubreddit}/top.json?limit=50&t=week`);
             const data = await response.json();
             
-            // Filter for image posts only
+            // Filter for image posts onlyy
             const posts = data.data.children.filter(post => {
                 const url = post.data.url;
                 return url.endsWith('.jpg') || url.endsWith('.png') || url.endsWith('.gif') || url.endsWith('.jpeg');
