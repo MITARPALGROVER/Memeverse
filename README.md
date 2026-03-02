@@ -1,7 +1,7 @@
 # Memeverse Project
 
 ## Overview
-Memeverse is an AI-powered meme generator that allows users to create, share, and enjoy memes. The application provides a user-friendly interface for meme generation, along with features for user registration, sign-in, and community engagement.
+Memeverse is an AI powered meme generator that allows users to create, share, and enjoy memes. The application provides a user-friendly interface for meme generation, along with features for user registration, sign-in, and community engagement.
 ## Team Members
 Madhusudhan - 2410991391<br>
 Mayank Bishnoi - 2410991415<br>
